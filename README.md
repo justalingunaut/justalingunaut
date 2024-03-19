@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @justalingunaut
+- 👀 I’m interested in computational linguistics, AI, Python, Data Science and web coding
+- 🌱 I’m currently learning C, Python and Javascript
+- 💞️ I’m looking to collaborate on open source projects 
+- 📫 How to reach me https://tr.linkedin.com/in/umut-g%C3%BCla%C3%A7-00b232249?trk=public_profile_samename-profile or 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Earth is oblate spheroid
